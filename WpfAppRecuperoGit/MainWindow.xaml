@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TextBlock x:Name="txtBlock_titolo" HorizontalAlignment="Center" Height="77" Margin="0,31,0,0" TextWrapping="Wrap" Text="LIBRO DELLE PARTITE" VerticalAlignment="Top" Width="468" IsEnabled="False" FontSize="48"/>
+        <Button Content="crea Partita" HorizontalAlignment="Center" Height="47" Margin="0,345,0,0" VerticalAlignment="Top" Width="168"/>
 
     </Grid>
 </Window>
