@@ -11,6 +11,7 @@ using System.Windows.Shapes;
 
 namespace WpfAppRecuperoGit
 {
+    //commento fatto per essere scaricato
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
